@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MedTrackPro_Assignment3</string>
+    <string name="app_name">MedTrackPro</string>
     <string name="title_activity_login_screen">LoginScreen</string>
     <string name="title_activity_home_screen">HomeScreen</string>
     <string name="title_activity_add_medication_screen">AddMedicationScreen</string>
